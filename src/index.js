@@ -1,4 +1,3 @@
-import React, {useState} from "react";
 import ReactDOM from "react-dom";
 import Board from "./components/Board";
 import './index.css'
